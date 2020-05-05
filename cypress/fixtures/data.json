@@ -1,0 +1,21 @@
+{
+  "preferredName1": "Test1",
+  "firstName1": "FirstName1",
+  "lastName1": "LastName1",
+  "birthDate1": "01/01/1990",
+  "nationality1": " Turkish - Turkey {enter}",
+  "gender1": " Female {enter}",
+  "email1": "Test1@mail.com",
+  "preferredName2": "Test2",
+  "firstName2": "FirstName2",
+  "lastName2": "LastName2",
+  "birthDate2": "01/01/1990",
+  "nationality2": " Turkish - Turkey {enter}",
+  "gender2": " Female {enter}",
+  "email2": "Test2@mail.com",
+  "kullanici":"test+testcompany@bayzat.com",
+  "sifre": "123456789",
+  "search1": "Lastname1{enter}",
+  "search2": "Lastname2{enter}"
+}
+
